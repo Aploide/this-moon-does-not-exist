@@ -1,8 +1,8 @@
-# This brick doesn't exist
+# This bird doesn't exist
 
-This website will generate laptop that does not exist. 
+This website will generate birds that does not exist. 
 
-<img alt="brick generator" src=" " width="80%" />
+<img alt="bird generator" src=" " width="80%" />
 
 ## [How does it work?](https://www.youtube.com/watch?v=SWoravHhsUU)
 
