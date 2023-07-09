@@ -18,3 +18,5 @@ Used Stable Diffusion source:
 [Original](https://github.com/CompVis/stable-diffusion)
 
 Credits: [References](https://github.com/lucidrains/stylegan2-pytorch#references)
+
+## [If you want to support me](https://PayPal.me/CxrloDZN)
