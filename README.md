@@ -2,7 +2,7 @@
 
 This website will generate moon pictures that does not exist. 
 
-<img alt="moon generator" src="https://dev.aploi.de/moon/img/0.png" width="40%" />
+<img alt="moon generator" src="https://dev.aploi.de/moon/img/1.png" width="40%" />
 
 ## How does it work?
 
